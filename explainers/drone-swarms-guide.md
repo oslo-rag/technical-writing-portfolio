@@ -67,6 +67,3 @@ Looking ahead, the field is advancing quickly. Future swarms are expected to fea
 ### Why drone swarms matter
 
 Drone swarms demonstrate a powerful principle of technical systems: **complex behavior can emerge from simple, well-defined rules**.  
-By breaking down a difficult problem into clear, repeatable instructions, engineers create solutions that are both elegant and scalable.
-
-This same mindset — translating complex technology into clear, actionable explanations — is at the heart of effective technical writing.

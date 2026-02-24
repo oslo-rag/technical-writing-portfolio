@@ -1,17 +1,16 @@
 # Technical Writing Portfolio
 
-Hi! I'm a technical writer with strong interest in military communications and autonomous defence systems.
+Hi! I'm Leni, a technical writer focused on making complex topics clear and approachable.
 
-## Defence & S1000D
-- [S1000D Defence Examples →](https://github.com/yourusername/s1000d-defence-examples)
-- Real samples produced to Issue 6.0 standard (used by NASAMS and Norwegian Army)
+## Skills & Tools
+- Audience-centered documentation
+- Markdown, clear structure, visuals
+- Explainers, tutorials, how-tos
+- Git & versioned docs workflows
 
-## Modern Robotics & Autonomy (Sphinx / Docs-as-Code)
-- Drone Swarm Documentation Example →](https://github.com/leni-techwriter/drone-swarm-docs)
-- Fully built with Sphinx, GitHub Actions, responsive HTML
+## Writing Samples
 
-## Selected Writing Samples
-- [Operator Quick Reference](samples/operator-guide.md)
-- [NASAMS-style Maintenance Procedure](samples/maintenance-procedure.pdf)
-- [Training Module – Secure Communications](samples/training-module.pdf)
+| Type      | Title                                      | Description                                      |
+|-----------|--------------------------------------------|--------------------------------------------------|
+| Explainer | How Drone Swarms Work: A Beginner’s Guide  | Simple breakdown of drone swarm concepts, flocking, applications, and real-world uses (in progress) | [Read →](explainers/drone-swarms-guide.md) |
 

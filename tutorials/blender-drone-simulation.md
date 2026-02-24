@@ -7,7 +7,13 @@ This tutorial shows you how to simulate hundreds of drones flocking together lik
 ### Prerequisites
 - Blender 4.2 or later (free at blender.org)
 - 15–20 minutes
+![Step 1: Ground plane setup](assets/blender-step1.jpg)
 
+![Step 2: Low-poly drone model](assets/blender-step2.jpg)
+
+![Step 3: Particle system](assets/blender-step3.jpg)
+
+![Step 4: Final render / Smoke](assets/blender-step4.jpg)
 
 ### Step 1: Prepare the Scene
 1. Open Blender and delete the default cube (select it → X → Delete).

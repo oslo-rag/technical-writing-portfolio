@@ -2,8 +2,6 @@
 
 **How hundreds of independent drones can behave as one intelligent system.**
 
-Look up at the night sky during a major event and you may see hundreds of glowing dots moving in perfect unison, forming shapes, letters, or animated scenes. This is a **drone swarm** in action.
-
 ### What is a drone swarm?
 
 A drone swarm is a coordinated group of multiple small drones that operate together as a single system.  

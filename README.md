@@ -1,6 +1,6 @@
 # Technical Writing Portfolio
 
-Hi! I'm a technical writer with strong domain knowledge in military communications and autonomous defence systems.
+Hi! I'm a technical writer with strong interest in military communications and autonomous defence systems.
 
 ## Defence & S1000D
 - [S1000D Defence Examples →](https://github.com/yourusername/s1000d-defence-examples)

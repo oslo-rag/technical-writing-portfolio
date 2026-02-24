@@ -1,14 +1,13 @@
 # Technical Writing Portfolio
 ## 📝 Docs as Code
 
-![Docs as Code](https://img.shields.io/badge/Docs%20as%20Code-Enabled-34A853?style=for-the-badge)
+## 📝 Docs as Code
 
-![Sphinx](https://img.shields.io/badge/Sphinx-0A2F5A?style=for-the-badge&logo=sphinx&logoColor=white)
-![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F?style=for-the-badge&logo=docusaurus&logoColor=white)
-![S1000D](https://img.shields.io/badge/S1000D-Compliant-1E3A8A?style=for-the-badge)
+![Docs as Code](https://img.shields.io/badge/Docs%20as%20Code-Enabled-5EEAD4?style=for-the-badge)
 
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Sphinx](https://img.shields.io/badge/Sphinx-93C5FD?style=for-the-badge&logo=sphinx&logoColor=1E2937)
+![Docusaurus](https://img.shields.io/badge/Docusaurus-86EFAC?style=for-the-badge&logo=docusaurus&logoColor=1E2937)
+![S1000D](https://img.shields.io/badge/S1000D-Supported-BAE6FD?style=for-the-badge)
 
 Hi! I'm Leni, a technical writer focused on making complex topics clear and approachable.
 

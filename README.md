@@ -1,6 +1,7 @@
 # Technical Writing Portfolio
-[![Markdown](https://img.shields.io/badge/Markdown-Used-green?style=flat&logo=markdown)](https://www.markdownguide.org/)
-[![Git](https://img.shields.io/badge/Git-Versioned-blue?style=flat&logo=git)](https://git-scm.com/)
+![Docs as Code](https://img.shields.io/badge/Docs%20as%20Code-Enabled-34A853?style=for-the-badge)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 Hi! I'm Leni, a technical writer focused on making complex topics clear and approachable.
 

@@ -42,7 +42,7 @@ This tutorial shows you how to simulate hundreds of drones flocking together lik
    - Cohesion (strength 1.0) — keeps the group together.
 3. Set Max Velocity to 5.0 for realistic drone speed.
 
-![Step 4: Boids rules](assets/blender-step4.jpg)
+
 
 ### Step 5: Add Movement (Optional Goal)
 1. Add an Empty (Shift + A → Empty → Plain Axes).
@@ -63,4 +63,9 @@ Set output to FFmpeg Video and render (Ctrl + F12).
 
 ### Why this matters
 This simple setup demonstrates the same three boids rules (separation, alignment, cohesion) we covered in the drone swarm explainer. You can now create compelling visuals that help non-technical audiences understand swarm technology.
+
+<image-card alt="Step 1" src="../assets/blender-step1.jpg" ></image-card>
+<image-card alt="Step 2" src="../assets/blender-step2.jpg" ></image-card>
+<image-card alt="Step 3" src="../assets/blender-step3.jpg" ></image-card>
+<image-card alt="Step 4: Boids rules" src="../assets/blender-step4.jpg" ></image-card>
 

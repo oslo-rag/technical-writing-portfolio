@@ -7,19 +7,13 @@ This tutorial shows you how to simulate hundreds of drones flocking together lik
 ### Prerequisites
 - Blender 4.2 or later (free at blender.org)
 - 15–20 minutes
-![Step 1: Ground plane setup](assets/blender-step1.jpg)
-
-![Step 2: Low-poly drone model](assets/blender-step2.jpg)
-
-![Step 3: Particle system](assets/blender-step3.jpg)
-
-![Step 4: Final render / Smoke](assets/blender-step4.jpg)
 
 ### Step 1: Prepare the Scene
 1. Open Blender and delete the default cube (select it → X → Delete).
 2. Add a large ground plane: Shift + A → Mesh → Plane.
 3. Scale it up: S → 50 → Enter (creates a 100 m × 100 m flight area).
 
+![blender-step1](https://github.com/user-attachments/assets/26670779-c96a-49da-867d-af24a6840f3a)
 
 
 ### Step 2: Create a Simple Drone Model
@@ -30,6 +24,7 @@ This tutorial shows you how to simulate hundreds of drones flocking together lik
 5. Set origin: Right-click → Set Origin → Origin to Geometry.
 
 
+![blender-step2](https://github.com/user-attachments/assets/36552dec-bc50-45af-b651-1f8a79ba9fad)
 
 ### Step 3: Set Up the Particle System
 1. Select the ground plane.
@@ -39,6 +34,7 @@ This tutorial shows you how to simulate hundreds of drones flocking together lik
 5. Under Render → Render As: Object.
 6. Instance Object: select your drone model.
 
+![blender-step3](https://github.com/user-attachments/assets/70d2c086-deb4-413b-9db4-e6df7d5b0229)
 
 
 ### Step 4: Enable Boids Physics for Flocking
@@ -49,6 +45,7 @@ This tutorial shows you how to simulate hundreds of drones flocking together lik
    - Cohesion (strength 1.0) — keeps the group together.
 3. Set Max Velocity to 5.0 for realistic drone speed.
 
+![blender-step4](https://github.com/user-attachments/assets/1eb6f820-26f3-4fb0-99a7-15fb1dc9365d)
 
 
 ### Step 5: Add Movement (Optional Goal)

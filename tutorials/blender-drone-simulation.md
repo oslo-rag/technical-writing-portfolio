@@ -13,7 +13,7 @@ This tutorial shows you how to simulate hundreds of drones flocking together lik
 2. Add a large ground plane: Shift + A → Mesh → Plane.
 3. Scale it up: S → 50 → Enter (creates a 100 m × 100 m flight area).
 
-![Step 1: Ground plane setup](assets/blender-step1.png)
+![Step 1: Ground plane setup](blender-step1.png)
 
 ### Step 2: Create a Simple Drone Model
 1. Add a Cube for the body: Shift + A → Mesh → Cube.

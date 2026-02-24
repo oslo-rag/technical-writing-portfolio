@@ -1,8 +1,6 @@
 # Technical Writing Portfolio
 ## 📝 Docs as Code
 
-## 📝 Docs as Code
-
 ![Docs as Code](https://img.shields.io/badge/Docs%20as%20Code-Enabled-5EEAD4?style=for-the-badge)
 
 ![Sphinx](https://img.shields.io/badge/Sphinx-93C5FD?style=for-the-badge&logo=sphinx&logoColor=1E2937)

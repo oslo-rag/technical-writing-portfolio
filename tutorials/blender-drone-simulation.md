@@ -64,8 +64,7 @@ Set output to FFmpeg Video and render (Ctrl + F12).
 ### Why this matters
 This simple setup demonstrates the same three boids rules (separation, alignment, cohesion) we covered in the drone swarm explainer. You can now create compelling visuals that help non-technical audiences understand swarm technology.
 
-<image-card alt="Step 1" src="../assets/blender-step1.jpg" ></image-card>
-<image-card alt="Step 2" src="../assets/blender-step2.jpg" ></image-card>
-<image-card alt="Step 3" src="../assets/blender-step3.jpg" ></image-card>
-<image-card alt="Step 4: Boids rules" src="../assets/blender-step4.jpg" ></image-card>
 
+<image-card alt="Step 1: Ground plane setup" src="../assets/blender-step1.jpg" ></image-card>
+<image-card alt="Step 2: Low-poly drone model" src="../assets/blender-step2.jpg" ></image-card>
+<image-card alt="Step 3: Particle system" src="../assets/blender-step3.jpg" ></image-card>

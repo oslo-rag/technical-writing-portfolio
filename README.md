@@ -7,7 +7,7 @@
 ![Docusaurus](https://img.shields.io/badge/Docusaurus-86EFAC?style=for-the-badge&logo=docusaurus&logoColor=1E2937)
 ![S1000D](https://img.shields.io/badge/S1000D-Supported-BAE6FD?style=for-the-badge)
 
-Hi! I'm Leni, a technical writer focused on making complex topics clear and approachable.
+Hi! I'm Leni, focused on making complex topics clear and approachable.
 
 ## Skills & Tools
 - Audience-centered documentation
